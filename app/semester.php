@@ -16,6 +16,6 @@ class semester extends Model
         return $this->hasMany('App\Payment');
     }
 
-    //checking git
+    //checking git for automatic login
 
 }
